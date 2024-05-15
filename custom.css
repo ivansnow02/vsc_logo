@@ -13,7 +13,7 @@ div.monaco-inputbox {
 }
 
 div.focused {
-    --vscode-quickInputList-focusBackground: #282c34 !important;
+    --vscode-quickInputList-focusBackground: rgb(33, 37, 43) !important;
 }
 
 div.active-line-number {
@@ -45,7 +45,7 @@ div.monaco-hover {
 
 .monaco-submenu .monaco-scrollable-element,
 .shadow-root-host {
-    --vscode-menu-background: #282c34;
+    --vscode-menu-background: rgb(33, 37, 43);
 }
 
 /* Cursor */
