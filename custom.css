@@ -47,7 +47,6 @@ div.monaco-hover {
 .shadow-root-host {
     --vscode-menu-background: #232323;
 }
-
 /* Cursor */
 
 div.cursor {
@@ -125,5 +124,3 @@ div.cursor::after {
     }
 
 }
-
-F
